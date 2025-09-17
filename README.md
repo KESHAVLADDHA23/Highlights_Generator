@@ -8,7 +8,13 @@
 # Demo
 * youtube url: https://www.youtube.com/live/N-1f7nVEdOM?si=WdwlWa7GFQ0Y60Cp
 * Result
-![A test image](res.gif)
+
+#How to run
+* step1
+* step2
+
+
+![Demo](res.gif)
 
 
 
