@@ -5,13 +5,15 @@
 * Uses structured output to extract key events
 * Uses moviepy to merge key events and generate highlights
 
+# How to run
+* step1
+* step2
+
 # Demo
 * youtube url: https://www.youtube.com/live/N-1f7nVEdOM?si=WdwlWa7GFQ0Y60Cp
 * Result
 
-#How to run
-* step1
-* step2
+
 
 
 ![Demo](output.webp)
