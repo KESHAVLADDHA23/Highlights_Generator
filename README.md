@@ -6,6 +6,7 @@
 * Uses moviepy to merge key events and generate highlights
 
 # Demo
+* Here we tried for a soccer match
 * youtube url: https://www.youtube.com/live/N-1f7nVEdOM?si=WdwlWa7GFQ0Y60Cp
 * Result
 
