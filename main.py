@@ -1,6 +1,5 @@
 from pydantic import BaseModel
 from moviepy import *
-from youtube_transcript_api import YouTubeTranscriptApi
 from openai import OpenAI
 import pickle
 from typing import List
@@ -72,3 +71,4 @@ if __name__ == "__main__":
     with open('transcr.pickle', 'wb') as handle:
         pickle.dump(final_response.events, handle, protocol=pickle.HIGHEST_PROTOCOL)
     merge_clips(path,final_response.events)
+
