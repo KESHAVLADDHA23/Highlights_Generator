@@ -5,17 +5,18 @@
 * Uses structured output to extract key events
 * Uses moviepy to merge key events and generate highlights
 
-# Dependencies
-* whisper, openai, moviepy
-
 # Demo
 * youtube url: https://www.youtube.com/live/N-1f7nVEdOM?si=WdwlWa7GFQ0Y60Cp
 * Result
 
-
-
-
 ![Demo](output.webp)
+
+# Dependencies
+* whisper, openai, moviepy
+
+# How to run
+* check `main.py`
+* put your openai key, edit the prompt if you want, change the path to your video file path and run.
 
 
 
