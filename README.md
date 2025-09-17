@@ -5,9 +5,9 @@
 * Uses structured output to extract key events
 * Uses moviepy to merge key events and generate highlights
 
-# Demo
+# Demo (just for educational purposes, i am not the owner of this video)
 * Here we tried for a soccer match
-* youtube url: https://www.youtube.com/live/N-1f7nVEdOM?si=WdwlWa7GFQ0Y60Cp  (just for educational purposes, i am not the owner of this video)
+* youtube url: https://www.youtube.com/live/N-1f7nVEdOM?si=WdwlWa7GFQ0Y60Cp  
 * Result
 
 ![Demo](output.webp)
