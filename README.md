@@ -14,7 +14,7 @@
 * step2
 
 
-![Demo](res.gif)
+![Demo](output.webp)
 
 
 
